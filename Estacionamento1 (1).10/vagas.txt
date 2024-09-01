@@ -1,0 +1,16 @@
+1,G1,Ocupada,Carro
+2,G1,Ocupada,Carro
+3,G1,Ocupada,Carro
+4,G1,Ocupada,Carro
+5,G1,Ocupada,Carro
+6,1,Ocupada,Carro
+7,A,Ocupada,Carro
+8,C1,Ocupada,Caminhao
+9,C1,Ocupada,Caminhao
+10,C2,Ocupada,Moto
+11,C2,Ocupada,Moto
+12,g1,Ocupada,Caminhao
+13,c1,Ocupada,Carro
+14,c1,Ocupada,Carro
+15,c1,Livre,Carro
+16,c1,Livre,Carro
